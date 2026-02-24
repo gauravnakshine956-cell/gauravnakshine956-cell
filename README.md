@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Gaurav Nakshine</h1>
-<h3 align="center">🚀 Data Engineer | Azure • Microsoft Fabric • PySpark</h3>
+<h3 align="center">🚀 Azure Data Engineer | Building Scalable ETL / ELT Pipelines | Turning Raw Data into Business-Ready Insights | • Fabric • Data Factory • Data Lake • Databricks • Synapse  • Python • MySQL • Spark • PySpark • GitHub</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-url" target="_blank">
@@ -58,23 +58,19 @@ I am a **Data Engineer** with hands-on experience in building **scalable data pi
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 🔹 Azure Data Engineering Pipeline
-- Built end-to-end ETL pipelines using **Azure Data Factory**
-- Stored curated data in **Azure Data Lake**
-- Processed large datasets using **PySpark**
-- Optimized data models for analytics
-
-### 🔹 Microsoft Fabric Analytics Solution
-- Implemented **Lakehouse architecture**
-- Used **Fabric notebooks** for transformations
-- Integrated with **Power BI dashboards**
-
-### 🔹 Big Data Processing with PySpark
-- Handled large-scale datasets
-- Applied transformations, joins, aggregations
-- Improved performance using partitioning & caching
+### Enterprise Transportation Revenue & Mobility Analytics
+Duration: 1 Year | Architecture: Lakehouse (Medallion)
+• Developed automated ingestion pipelines integrating 20+ sources (SQL, REST
+API, SFTP) handling 10–30 GB daily data.
+• Implemented Silver layer transformations with data cleansing, deduplication,
+incremental MERGE, and SCD Type 2 logic.
+• Designed Star Schema (Fact & Dimension tables) and built 15+ KPIs for
+business reporting.
+• Optimized performance using partitioning, Z-ORDER, and query tuning, reducing
+pipeline runtime by ~35%.
+• Enabled Power BI dashboards for executive-level revenue and mobility insights.
 
 ---
 
