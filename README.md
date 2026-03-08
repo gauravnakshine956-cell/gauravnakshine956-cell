@@ -83,7 +83,7 @@ pipeline runtime by ~35%.
 
 ## 🤝 Let’s Connect
 💼 LinkedIn: [linkedin.com/in/your-linkedin-url](https://linkedin.com/in/gauravnakshine)  
-📧 Email: gauravnakshine956@gmail.com  
+📧 Email: gauravnakshine77@gmail.com  
 
 ---
 
