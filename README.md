@@ -62,6 +62,7 @@ I am a **Data Engineer** with hands-on experience in building **scalable data pi
 
 ### Insurance Data Platform – API to Azure Lakehouse
 Duration: 1.3 Year | Architecture: Lakehouse (Medallion)
+</p>
 API to Azure Lakehouse project focuses on building a scalable data integration system that transfers insurance data from core applications into a centralized cloud-based analytics environment. In this project, APIs are developed to extract data related to policies, claims, customers, and transactions from backend systems and securely transmit it to the Microsoft Azure Lakehouse architecture, combining data lake and data warehouse capabilities. The solution ensures real-time or batch data ingestion using services like Azure Data Factory and Azure Data Lake Storage, enabling efficient storage and processing of structured and unstructured data. It includes data validation, transformation, and governance to maintain data quality and compliance with regulatory standards. The platform supports advanced analytics, reporting, and business intelligence by integrating with tools like Power BI, helping stakeholders gain insights into customer behavior, risk assessment, and operational performance
 
 ---
