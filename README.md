@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Gaurav Nakshine</h1>
-<h3 align="center">🚀 Azure Data Engineer | Building Scalable ETL / ELT Pipelines | Turning Raw Data into Business-Ready Insights | • Fabric • Data Factory • Data Lake • Databricks • Synapse  • Python • MySQL • Spark • PySpark • GitHub</h3>
+<h3 align="center">🚀 | Immediate Joiner | Globally Microsoft Certified | Azure Data Engineer |1.5+ YOE | Fabric | Data Factory | Data Lake | Databricks | Synapse | Key Vault | ETL / ELT | Python | SQL | PySpark | GitHub | Power BI | Gen AI |</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-url" target="_blank">
@@ -60,22 +60,14 @@ I am a **Data Engineer** with hands-on experience in building **scalable data pi
 
 ## 📂 Projects
 
-### Enterprise Transportation Revenue & Mobility Analytics
-Duration: 1 Year | Architecture: Lakehouse (Medallion)
-• Developed automated ingestion pipelines integrating 20+ sources (SQL, REST
-API, SFTP) handling 10–30 GB daily data.
-• Implemented Silver layer transformations with data cleansing, deduplication,
-incremental MERGE, and SCD Type 2 logic.
-• Designed Star Schema (Fact & Dimension tables) and built 15+ KPIs for
-business reporting.
-• Optimized performance using partitioning, Z-ORDER, and query tuning, reducing
-pipeline runtime by ~35%.
-• Enabled Power BI dashboards for executive-level revenue and mobility insights.
+### Insurance Data Platform – API to Azure Lakehouse
+Duration: 1.3 Year | Architecture: Lakehouse (Medallion)
+API to Azure Lakehouse project focuses on building a scalable data integration system that transfers insurance data from core applications into a centralized cloud-based analytics environment. In this project, APIs are developed to extract data related to policies, claims, customers, and transactions from backend systems and securely transmit it to the Microsoft Azure Lakehouse architecture, combining data lake and data warehouse capabilities. The solution ensures real-time or batch data ingestion using services like Azure Data Factory and Azure Data Lake Storage, enabling efficient storage and processing of structured and unstructured data. It includes data validation, transformation, and governance to maintain data quality and compliance with regulatory standards. The platform supports advanced analytics, reporting, and business intelligence by integrating with tools like Power BI, helping stakeholders gain insights into customer behavior, risk assessment, and operational performance
 
 ---
 
 ##  I’m Currently Working On
-- Advanced **Microsoft Fabric** features
+- Advanced **Microsoft Azure** features
 - Performance tuning in **PySpark**
 - Cloud data architecture best practices
 
