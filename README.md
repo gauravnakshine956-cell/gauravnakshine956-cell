@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Gaurav Nakshine</h1>
-<h3 align="center">🚀 | Immediate Joiner | Globally Microsoft Certified | Azure Data Engineer |1.5+ YOE | Fabric | Data Factory | Data Lake | Databricks | Synapse | Key Vault | ETL / ELT | Python | SQL | PySpark | GitHub | Power BI | Gen AI |</h3>
+<h3 align="center">🚀 | Immediate Joiner | Globally Microsoft Certified | Azure Data Engineer | 1.5+ YOE | Fabric | ADF | ADB | ADLS | DevOps | CI / CD | Synapse | Key Vault | ETL / ELT | Python | SQL | PySpark | GitHub | Power BI | Gen AI | Data Governance |</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-url" target="_blank">
