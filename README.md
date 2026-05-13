@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Gaurav Nakshine</h1>
-<h3 align="center">🚀 | Immediate Joiner | Globally Microsoft Certified | Azure Data Engineer | 1.5+ YOE | Fabric | ADF | ADB | ADLS Gen2 | DevOps | CI / CD | Synapse | Key Vault | ETL / ELT | Python | SQL | PySpark | GitHub | Power BI | Gen AI | Data Governance |</h3>
+<h3 align="center">🚀 | Immediate Joiner | Globally Microsoft Certified | Data Engineer | Azure | Fabric | Azure Data Factory | Azure Databricks | Azure Data Lake | Azure DevOps | CI / CD | Azure Synapse Analytics | Azure Key Vault | Azure SQL Database | ETL / ELT Pipelines | Python | SQL | PySpark | GitHub | Power BI | Gen AI | Data Governance | MySQL | Data Warehousing | OLTP / OLAP | </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-url" target="_blank">
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Data Engineer** with hands-on experience in building **scalable data pipelines**, **cloud-based analytics solutions**, and **end-to-end data platforms** using **Microsoft Azure and Microsoft Fabric**.
+I am a **Azure Data Engineer** with hands-on experience in building **scalable data pipelines**, **cloud-based analytics solutions**, and **end-to-end data platforms** using **Microsoft Azure and Microsoft Fabric**.
 
 🔹 Passionate about transforming raw data into **business-ready insights**  
 🔹 Strong in **ETL/ELT, big data processing, and analytics**  
